@@ -5,6 +5,7 @@
 
 ## 필요 패키지 설치(python 3.9.17)
 ```
+pip install django
 pip install numpy==1.23.5
 pip install mxnet -f https://dist.mxnet.io/python/cpu
 pip install gluonnlp==0.8.0 pandas tqdm
